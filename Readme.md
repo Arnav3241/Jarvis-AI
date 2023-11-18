@@ -9,7 +9,7 @@ Say Hi to Jarvis, Your very own personal Ai assistant! Jarvis simplifies coding,
 
 ## Todo
  
-- [ ]  GUI (Currently doing)
+- [x]  GUI (Currently doing)
 - [ ]  Basic functions like Speak and Listen
 - [ ]  Whatsapp automation
 - [ ]  Instagram Automation
@@ -28,10 +28,10 @@ Say Hi to Jarvis, Your very own personal Ai assistant! Jarvis simplifies coding,
 - [ ]  Mail Checker
 - [ ]  Check battery percentage
 - [ ]  SMS Sender
-- [ ]  make Calls using Twillo API
+- [ ]  Make Calls using Twillo API
 - [ ]  Access Smartphone from PC
 - [ ]  Face Recognition
-- [ ]  Wether Information
+- [ ]  Weather Information
 - [ ]  News Information
 - [ ]  Integration of an Finance AI 
 - [ ]  Integration of an Gita GPT
@@ -88,9 +88,16 @@ This project uses the following packages:
 ## Dev Logs
 Dev logs document the iterative journey of a project, capturing milestones and challenges. They serve as a crucial roadmap for developers, fostering collaboration and informed decision-making.
 
-### Day 1:   (15/11/2023)
+### Day 1:  
 Today was a quick day. Started with the frontend and already halfway there. added tabs. Still seems a long way to go 🤔
 
 Here is today's progress:
 ![Logo](./Assets/Images/Readme/Logs/Day%201/1.png)
 ![Logo](./Assets/Images/Readme/Logs/Day%201/2.png)
+
+### Day 2:  
+Today I literally had no time. So i rushed a little with the ongoing GUI. But we are finally Done with the GUI. 🥳🥳🥳
+
+Here is today's progress:
+![Logo](./Assets/Images/Readme/Logs/Day%202/1.png)
+![Logo](./Assets/Images/Readme/Logs/Day%202/2.png)
