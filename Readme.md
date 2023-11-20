@@ -9,8 +9,7 @@ Say Hi to Jarvis, Your very own personal Ai assistant! Jarvis simplifies coding,
 
 ## Todo
  
-- [x]  GUI (Currently doing)
-- [x]  GUI (Currently doing)
+- [x]  GUI
 - [ ]  Basic functions like Speak and Listen
 - [ ]  Whatsapp automation
 - [ ]  Instagram Automation
