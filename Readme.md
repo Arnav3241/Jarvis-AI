@@ -111,7 +111,7 @@ Here is today's progress:
 ![Logo](./Assets/Images/Readme/Logs/Day%202/1.png)
 ![Logo](./Assets/Images/Readme/Logs/Day%202/2.png)
 
-### Day 3"
+### Day 3:
 Built the Speak System but with a different approach. I used pygame instead of the usual pyttsx3 everyone was using.
 
 Here is today's progress: Click the image to watch the video
