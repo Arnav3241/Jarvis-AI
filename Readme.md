@@ -114,5 +114,6 @@ Here is today's progress:
 ### Day 3"
 Built the Speak System but with a different approach. I used pygame instead of the usual pyttsx3 everyone was using.
 
-Here is today's progress:
+Here is today's progress: Click the image to watch the video
+
 [![Python Jarvis Speak function](./Assets/Images/Readme/Logs/Day%203/1.png)](https://youtu.be/IYG9_y_d-7o "Python Jarvis Speak function")
