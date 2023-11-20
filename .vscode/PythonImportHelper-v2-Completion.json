@@ -196,11 +196,11 @@
         "documentation": {}
     },
     {
-        "label": "speak",
+        "label": "Speak",
         "kind": 2,
         "importPath": "Functions.Speak",
         "description": "Functions.Speak",
-        "peekOfCode": "def speak(data):\n  voice = 'en-CA-LiamNeural'\n  command = f'edge-tts --voice \"{voice}\" --text \"{data}\" --write-media \"Assets//Audio//currently.mp3\"'\n  os.system(command)\n  pygame.init()\n  pygame.mixer.init()\n  pygame.mixer.music.load(\"Assets//Audio//currently.mp3\")\n  try:\n    pygame.mixer.music.play()\n    while pygame.mixer.music.get_busy():",
+        "peekOfCode": "def Speak(data):\n  voice = 'en-CA-LiamNeural'\n  command = f'edge-tts --voice \"{voice}\" --text \"{data}\" --write-media \"Assets//Audio//currently.mp3\"'\n  os.system(command)\n  pygame.init()\n  pygame.mixer.init()\n  pygame.mixer.music.load(\"Assets//Audio//currently.mp3\")\n  try:\n    pygame.mixer.music.play()\n    while pygame.mixer.music.get_busy():",
         "detail": "Functions.Speak",
         "documentation": {}
     }

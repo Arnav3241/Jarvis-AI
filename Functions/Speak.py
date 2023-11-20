@@ -1,7 +1,7 @@
 import os
 import pygame
 
-def speak(data):
+def Speak(data):
   voice = 'en-CA-LiamNeural'
   
   command = f'edge-tts --voice "{voice}" --text "{data}" --write-media "Assets//Audio//currently.mp3"'
@@ -24,4 +24,4 @@ def speak(data):
     pygame.mixer.quit()
 
 if __name__ == "__main__":
-  speak("Hello, I am Jarvis: Your personal AI Assistant.")
+  Speak("Hi fellow github users!")
