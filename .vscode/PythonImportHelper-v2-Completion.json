@@ -1,0 +1,207 @@
+[
+    {
+        "label": "cv2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "cv2",
+        "description": "cv2",
+        "detail": "cv2",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "alive_bar",
+        "importPath": "alive_progress",
+        "description": "alive_progress",
+        "isExtraImport": true,
+        "detail": "alive_progress",
+        "documentation": {}
+    },
+    {
+        "label": "pygame",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pygame",
+        "description": "pygame",
+        "detail": "pygame",
+        "documentation": {}
+    },
+    {
+        "label": "eel",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "eel",
+        "description": "eel",
+        "detail": "eel",
+        "documentation": {}
+    },
+    {
+        "label": "recognizer",
+        "kind": 5,
+        "importPath": "Authentication.Recognition",
+        "description": "Authentication.Recognition",
+        "peekOfCode": "recognizer = cv2.face.LBPHFaceRecognizer_create() # Local Binary Patterns Histograms\nrecognizer.read('Database//Trained_Modal//Traineddata.yml')   #load trained model\ncascadePath = \"Database//Haarcascades//haarcascade_frontalface_default.xml\"\nfaceCascade = cv2.CascadeClassifier(cascadePath) #initializing haar cascade for object detection approach\nfont = cv2.FONT_HERSHEY_SIMPLEX #denotes the font type\nids = 2 #number of persons you want to Recognize\nnames = ['Aanya',\"Arnav\"]  #names, leave first empty bcz counter starts from 0\ncam = cv2.VideoCapture(0, cv2.CAP_DSHOW) #cv2.CAP_DSHOW to remove warning\ncam.set(3, 640) # set video FrameWidht\ncam.set(4, 480) # set video FrameHeight",
+        "detail": "Authentication.Recognition",
+        "documentation": {}
+    },
+    {
+        "label": "cascadePath",
+        "kind": 5,
+        "importPath": "Authentication.Recognition",
+        "description": "Authentication.Recognition",
+        "peekOfCode": "cascadePath = \"Database//Haarcascades//haarcascade_frontalface_default.xml\"\nfaceCascade = cv2.CascadeClassifier(cascadePath) #initializing haar cascade for object detection approach\nfont = cv2.FONT_HERSHEY_SIMPLEX #denotes the font type\nids = 2 #number of persons you want to Recognize\nnames = ['Aanya',\"Arnav\"]  #names, leave first empty bcz counter starts from 0\ncam = cv2.VideoCapture(0, cv2.CAP_DSHOW) #cv2.CAP_DSHOW to remove warning\ncam.set(3, 640) # set video FrameWidht\ncam.set(4, 480) # set video FrameHeight\n# Define min window size to be recognized as a face\nminW = 0.1*cam.get(3)",
+        "detail": "Authentication.Recognition",
+        "documentation": {}
+    },
+    {
+        "label": "faceCascade",
+        "kind": 5,
+        "importPath": "Authentication.Recognition",
+        "description": "Authentication.Recognition",
+        "peekOfCode": "faceCascade = cv2.CascadeClassifier(cascadePath) #initializing haar cascade for object detection approach\nfont = cv2.FONT_HERSHEY_SIMPLEX #denotes the font type\nids = 2 #number of persons you want to Recognize\nnames = ['Aanya',\"Arnav\"]  #names, leave first empty bcz counter starts from 0\ncam = cv2.VideoCapture(0, cv2.CAP_DSHOW) #cv2.CAP_DSHOW to remove warning\ncam.set(3, 640) # set video FrameWidht\ncam.set(4, 480) # set video FrameHeight\n# Define min window size to be recognized as a face\nminW = 0.1*cam.get(3)\nminH = 0.1*cam.get(4)",
+        "detail": "Authentication.Recognition",
+        "documentation": {}
+    },
+    {
+        "label": "font",
+        "kind": 5,
+        "importPath": "Authentication.Recognition",
+        "description": "Authentication.Recognition",
+        "peekOfCode": "font = cv2.FONT_HERSHEY_SIMPLEX #denotes the font type\nids = 2 #number of persons you want to Recognize\nnames = ['Aanya',\"Arnav\"]  #names, leave first empty bcz counter starts from 0\ncam = cv2.VideoCapture(0, cv2.CAP_DSHOW) #cv2.CAP_DSHOW to remove warning\ncam.set(3, 640) # set video FrameWidht\ncam.set(4, 480) # set video FrameHeight\n# Define min window size to be recognized as a face\nminW = 0.1*cam.get(3)\nminH = 0.1*cam.get(4)\n# flag = True",
+        "detail": "Authentication.Recognition",
+        "documentation": {}
+    },
+    {
+        "label": "ids",
+        "kind": 5,
+        "importPath": "Authentication.Recognition",
+        "description": "Authentication.Recognition",
+        "peekOfCode": "ids = 2 #number of persons you want to Recognize\nnames = ['Aanya',\"Arnav\"]  #names, leave first empty bcz counter starts from 0\ncam = cv2.VideoCapture(0, cv2.CAP_DSHOW) #cv2.CAP_DSHOW to remove warning\ncam.set(3, 640) # set video FrameWidht\ncam.set(4, 480) # set video FrameHeight\n# Define min window size to be recognized as a face\nminW = 0.1*cam.get(3)\nminH = 0.1*cam.get(4)\n# flag = True\nwhile True:",
+        "detail": "Authentication.Recognition",
+        "documentation": {}
+    },
+    {
+        "label": "names",
+        "kind": 5,
+        "importPath": "Authentication.Recognition",
+        "description": "Authentication.Recognition",
+        "peekOfCode": "names = ['Aanya',\"Arnav\"]  #names, leave first empty bcz counter starts from 0\ncam = cv2.VideoCapture(0, cv2.CAP_DSHOW) #cv2.CAP_DSHOW to remove warning\ncam.set(3, 640) # set video FrameWidht\ncam.set(4, 480) # set video FrameHeight\n# Define min window size to be recognized as a face\nminW = 0.1*cam.get(3)\nminH = 0.1*cam.get(4)\n# flag = True\nwhile True:\n    ret, img =cam.read() #read the frames using the above created object",
+        "detail": "Authentication.Recognition",
+        "documentation": {}
+    },
+    {
+        "label": "cam",
+        "kind": 5,
+        "importPath": "Authentication.Recognition",
+        "description": "Authentication.Recognition",
+        "peekOfCode": "cam = cv2.VideoCapture(0, cv2.CAP_DSHOW) #cv2.CAP_DSHOW to remove warning\ncam.set(3, 640) # set video FrameWidht\ncam.set(4, 480) # set video FrameHeight\n# Define min window size to be recognized as a face\nminW = 0.1*cam.get(3)\nminH = 0.1*cam.get(4)\n# flag = True\nwhile True:\n    ret, img =cam.read() #read the frames using the above created object\n    converted_image = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)  #The function converts an input image from one color space to another",
+        "detail": "Authentication.Recognition",
+        "documentation": {}
+    },
+    {
+        "label": "minW",
+        "kind": 5,
+        "importPath": "Authentication.Recognition",
+        "description": "Authentication.Recognition",
+        "peekOfCode": "minW = 0.1*cam.get(3)\nminH = 0.1*cam.get(4)\n# flag = True\nwhile True:\n    ret, img =cam.read() #read the frames using the above created object\n    converted_image = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)  #The function converts an input image from one color space to another\n    faces = faceCascade.detectMultiScale( \n        converted_image,\n        scaleFactor = 1.2,\n        minNeighbors = 5,",
+        "detail": "Authentication.Recognition",
+        "documentation": {}
+    },
+    {
+        "label": "minH",
+        "kind": 5,
+        "importPath": "Authentication.Recognition",
+        "description": "Authentication.Recognition",
+        "peekOfCode": "minH = 0.1*cam.get(4)\n# flag = True\nwhile True:\n    ret, img =cam.read() #read the frames using the above created object\n    converted_image = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)  #The function converts an input image from one color space to another\n    faces = faceCascade.detectMultiScale( \n        converted_image,\n        scaleFactor = 1.2,\n        minNeighbors = 5,\n        minSize = (int(minW), int(minH)),",
+        "detail": "Authentication.Recognition",
+        "documentation": {}
+    },
+    {
+        "label": "SampleGenerator",
+        "kind": 2,
+        "importPath": "Authentication.SampleGen",
+        "description": "Authentication.SampleGen",
+        "peekOfCode": "def SampleGenerator(haarcascade_frontalface_default_path, SaveDataPath):\n  cam = cv2.VideoCapture(0)\n  cam.set(3, 640)\n  cam.set(4, 480)\n  detector = cv2.CascadeClassifier(haarcascade_frontalface_default_path)\n  face_id = input(\"Enter a Numeric user ID  here:  \")\n  totalCount = input(\"Enter the number of samples you want to take:  \")\n  print(\"Taking samples, look at camera ....... \")\n  count = 0\n  font = cv2.FONT_HERSHEY_SIMPLEX",
+        "detail": "Authentication.SampleGen",
+        "documentation": {}
+    },
+    {
+        "label": "Images_And_Labels",
+        "kind": 2,
+        "importPath": "Authentication.Trainer",
+        "description": "Authentication.Trainer",
+        "peekOfCode": "def Images_And_Labels(path): # function to fetch the images and labels\n  imagePaths = [os.path.join(path,f) for f in os.listdir(path)]     \n  faceSamples=[]\n  ids = []\n  with alive_bar(5000) as bar:\n    for imagePath in imagePaths: # to iterate particular image path\n      gray_img = Image.open(imagePath).convert('L') # convert it to grayscale\n      img_arr = np.array(gray_img,'uint8') #creating an array\n      id = int(os.path.split(imagePath)[-1].split(\".\")[2])\n      faces = detector.detectMultiScale(img_arr)",
+        "detail": "Authentication.Trainer",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "kind": 5,
+        "importPath": "Authentication.Trainer",
+        "description": "Authentication.Trainer",
+        "peekOfCode": "path = 'Database//Samples' # Path for samples already taken\nrecognizer = cv2.face.LBPHFaceRecognizer_create() # Local Binary Patterns Histograms\ndetector = cv2.CascadeClassifier(\"Database//Haarcascades//haarcascade_frontalface_default.xml\")\ndef Images_And_Labels(path): # function to fetch the images and labels\n  imagePaths = [os.path.join(path,f) for f in os.listdir(path)]     \n  faceSamples=[]\n  ids = []\n  with alive_bar(5000) as bar:\n    for imagePath in imagePaths: # to iterate particular image path\n      gray_img = Image.open(imagePath).convert('L') # convert it to grayscale",
+        "detail": "Authentication.Trainer",
+        "documentation": {}
+    },
+    {
+        "label": "recognizer",
+        "kind": 5,
+        "importPath": "Authentication.Trainer",
+        "description": "Authentication.Trainer",
+        "peekOfCode": "recognizer = cv2.face.LBPHFaceRecognizer_create() # Local Binary Patterns Histograms\ndetector = cv2.CascadeClassifier(\"Database//Haarcascades//haarcascade_frontalface_default.xml\")\ndef Images_And_Labels(path): # function to fetch the images and labels\n  imagePaths = [os.path.join(path,f) for f in os.listdir(path)]     \n  faceSamples=[]\n  ids = []\n  with alive_bar(5000) as bar:\n    for imagePath in imagePaths: # to iterate particular image path\n      gray_img = Image.open(imagePath).convert('L') # convert it to grayscale\n      img_arr = np.array(gray_img,'uint8') #creating an array",
+        "detail": "Authentication.Trainer",
+        "documentation": {}
+    },
+    {
+        "label": "detector",
+        "kind": 5,
+        "importPath": "Authentication.Trainer",
+        "description": "Authentication.Trainer",
+        "peekOfCode": "detector = cv2.CascadeClassifier(\"Database//Haarcascades//haarcascade_frontalface_default.xml\")\ndef Images_And_Labels(path): # function to fetch the images and labels\n  imagePaths = [os.path.join(path,f) for f in os.listdir(path)]     \n  faceSamples=[]\n  ids = []\n  with alive_bar(5000) as bar:\n    for imagePath in imagePaths: # to iterate particular image path\n      gray_img = Image.open(imagePath).convert('L') # convert it to grayscale\n      img_arr = np.array(gray_img,'uint8') #creating an array\n      id = int(os.path.split(imagePath)[-1].split(\".\")[2])",
+        "detail": "Authentication.Trainer",
+        "documentation": {}
+    },
+    {
+        "label": "faces,ids",
+        "kind": 5,
+        "importPath": "Authentication.Trainer",
+        "description": "Authentication.Trainer",
+        "peekOfCode": "faces,ids = Images_And_Labels(path)\nrecognizer.train(faces, np.array(ids))\nrecognizer.write('Database//Trained_Modal//TrainedData.yml')  # Save the trained model as trainer.yml\nprint(\"Model trained, Now we can recognize your face.\")",
+        "detail": "Authentication.Trainer",
+        "documentation": {}
+    },
+    {
+        "label": "speak",
+        "kind": 2,
+        "importPath": "Functions.Speak",
+        "description": "Functions.Speak",
+        "peekOfCode": "def speak(data):\n  voice = 'en-CA-LiamNeural'\n  command = f'edge-tts --voice \"{voice}\" --text \"{data}\" --write-media \"Assets//Audio//currently.mp3\"'\n  os.system(command)\n  pygame.init()\n  pygame.mixer.init()\n  pygame.mixer.music.load(\"Assets//Audio//currently.mp3\")\n  try:\n    pygame.mixer.music.play()\n    while pygame.mixer.music.get_busy():",
+        "detail": "Functions.Speak",
+        "documentation": {}
+    }
+]
