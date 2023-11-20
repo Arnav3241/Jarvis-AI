@@ -10,6 +10,7 @@ Say Hi to Jarvis, Your very own personal Ai assistant! Jarvis simplifies coding,
 ## Todo
  
 - [x]  GUI (Currently doing)
+- [x]  GUI (Currently doing)
 - [ ]  Basic functions like Speak and Listen
 - [ ]  Whatsapp automation
 - [ ]  Instagram Automation
@@ -29,8 +30,10 @@ Say Hi to Jarvis, Your very own personal Ai assistant! Jarvis simplifies coding,
 - [ ]  Check battery percentage
 - [ ]  SMS Sender
 - [ ]  Make Calls using Twillo API
+- [ ]  Make Calls using Twillo API
 - [ ]  Access Smartphone from PC
 - [ ]  Face Recognition
+- [ ]  Weather Information
 - [ ]  Weather Information
 - [ ]  News Information
 - [ ]  Integration of an Finance AI 
@@ -94,6 +97,13 @@ Today was a quick day. Started with the frontend and already halfway there. adde
 Here is today's progress:
 ![Logo](./Assets/Images/Readme/Logs/Day%201/1.png)
 ![Logo](./Assets/Images/Readme/Logs/Day%201/2.png)
+
+### Day 2:  
+Today I literally had no time. So i rushed a little with the ongoing GUI. But we are finally Done with the GUI. 🥳🥳🥳
+
+Here is today's progress:
+![Logo](./Assets/Images/Readme/Logs/Day%202/1.png)
+![Logo](./Assets/Images/Readme/Logs/Day%202/2.png)
 
 ### Day 2:  
 Today I literally had no time. So i rushed a little with the ongoing GUI. But we are finally Done with the GUI. 🥳🥳🥳
