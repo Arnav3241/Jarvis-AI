@@ -115,4 +115,4 @@ Here is today's progress:
 Built the Speak System but with a different approach. I used pygame instead of the usual pyttsx3 everyone was using.
 
 Here is today's progress:
-<video src='./Assets/Images/Readme/Logs/Day 3/1.mp4' width=180/>
+[![Python Jarvis Speak function](./Assets/Images/Readme/Logs/Day%203/1.png)](https://youtu.be/IYG9_y_d-7o "Python Jarvis Speak function")
