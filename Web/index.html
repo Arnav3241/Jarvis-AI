@@ -2,61 +2,50 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jarvis: Your personal AI Assistant</title>
-    <!-- Description -->
-    <meta name="description" content="Jarvis is a personal AI assistant that can do anything you want it to do.">
-    <!-- Icon -->
-    <link rel="icon" href="/Assets/Images/Jarvis Logo.png">
-    <!-- Import tailwind CSS -->
-    <link rel="stylesheet" href="https://unpkg.com/tailwindcss/dist/tailwind.min.css">
-    <!-- Import Font Awesome -->
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css">
-    <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://unpkg.com/siriwave/dist/siriwave.umd.min.js"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="Logo.png">
+  <meta charset="UTF-8">
+  <title>Jarvis</title>
 </head>
 
 <body class="bg-black">
-    <!-- Navbar -->
-    <div class="border-b border-gray-200 dark:border-gray-700">
-        <ul class="flex flex-wrap -mb-px text-xl  font-medium text-center text-gray-500 dark:text-gray-400">
-            <li class="me-2 cursor-pointer" onclick="dashboard()">
-                <a
-                    class="inline-flex items-center justify-center p-4 border-b-2 border-transparent rounded-t-lg hover:text-gray-600 hover:border-gray-300 dark:hover:text-gray-300 group">
-                    <svg class="w-7 h-7 me-2 text-gray-400 group-hover:text-gray-500 dark:text-gray-500 dark:group-hover:text-gray-300"
-                        aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
-                        <path
-                            d="M6.143 0H1.857A1.857 1.857 0 0 0 0 1.857v4.286C0 7.169.831 8 1.857 8h4.286A1.857 1.857 0 0 0 8 6.143V1.857A1.857 1.857 0 0 0 6.143 0Zm10 0h-4.286A1.857 1.857 0 0 0 10 1.857v4.286C10 7.169 10.831 8 11.857 8h4.286A1.857 1.857 0 0 0 18 6.143V1.857A1.857 1.857 0 0 0 16.143 0Zm-10 10H1.857A1.857 1.857 0 0 0 0 11.857v4.286C0 17.169.831 18 1.857 18h4.286A1.857 1.857 0 0 0 8 16.143v-4.286A1.857 1.857 0 0 0 6.143 10Zm10 0h-4.286A1.857 1.857 0 0 0 10 11.857v4.286c0 1.026.831 1.857 1.857 1.857h4.286A1.857 1.857 0 0 0 18 16.143v-4.286A1.857 1.857 0 0 0 16.143 10Z" />
-                    </svg>Dashboard
-                </a>
-            </li>
-            <li class="me-2 cursor-pointer" onclick="chat()">
-                <a
-                    class="inline-flex items-center justify-center p-4 border-b-2 border-transparent rounded-t-lg hover:text-gray-600 hover:border-gray-300 dark:hover:text-gray-300 group">
-                    <svg class="w-7 h-7 me-2 text-gray-400 group-hover:text-gray-500 dark:text-gray-500 dark:group-hover:text-gray-300"
-                        aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
-                        <path
-                            d="M5 11.424V1a1 1 0 1 0-2 0v10.424a3.228 3.228 0 0 0 0 6.152V19a1 1 0 1 0 2 0v-1.424a3.228 3.228 0 0 0 0-6.152ZM19.25 14.5A3.243 3.243 0 0 0 17 11.424V1a1 1 0 0 0-2 0v10.424a3.227 3.227 0 0 0 0 6.152V19a1 1 0 1 0 2 0v-1.424a3.243 3.243 0 0 0 2.25-3.076Zm-6-9A3.243 3.243 0 0 0 11 2.424V1a1 1 0 0 0-2 0v1.424a3.228 3.228 0 0 0 0 6.152V19a1 1 0 1 0 2 0V8.576A3.243 3.243 0 0 0 13.25 5.5Z" />
-                    </svg>Chat
-                </a>
-            </li>
-        </ul>
+  <nav class="h-[6vh] text-slate-300 p-2 flex justify-between"></nav>
+  <div class="h-[90vh] w-[100vw] flex">
+    <div class="h-[90vh] w-[70%] flex justify-center items-center">
+      <img src="Voice.gif" class="w-[40vw]" alt="" srcset="">
     </div>
-
-    <div class="body">
-        <div id="Dashboard" class="">
-            <div class=" h-[90vh] text-white text-4xl flex justify-center items-center">
-                Dashboard</div>
-        </div>
-        <div id="Chat" class="">
-            <div class=" h-[90vh] text-white text-4xl flex justify-center items-center">
-                Chat</div>
-        </div>
+    <div class="h-[90vh] w-[30%] mx-7 rounded-xl bg-[#1F1F1D] justify-center items-center">
+      <div class="text-xl text-slate-200 p-6 w-[30vw] flex h-[8vh] border-gray-800 border-b-2">
+        <img src="Logo.png" class="rounded-full w-[30px] h-[30px] mr-3" alt="">
+        <div>Jarvis</div>
+      </div>
+      <div class="text-xl text-slate-200 p-6 w-[30vw] flex h-[72vh] "></div>
+      <div class="text-xl text-slate-200 p-6 w-[30vw] flex h-[10vh] flex itens-center">
+        <form autocomplete="off" class="w-full mb-2"  onsubmit="return false">
+          <label for="search" class="mb-2 text-sm font-medium text-gray-900 sr-only dark:text-white">Search</label>
+          <div class="relative">
+            <div class="absolute inset-y-0 start-0 flex items-center ps-3 pointer-events-none">
+              <svg class="w-4 h-4 text-gray-500 dark:text-gray-400" aria-hidden="true"
+                xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
+                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                  d="m19 19-4-4m0-7A7 7 0 1 1 1 8a7 7 0 0 1 14 0Z" />
+              </svg>
+            </div>
+            <input type="search" id="search"
+              class="block w-full p-4 ps-10 text-sm text-gray-900 border border-gray-300 rounded-2xl bg-gray-50 focus:ring-blue-500 focus:border-blue-500 dark:bg-[#292927] dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
+              placeholder="Search" required>
+            <button type="submit"
+              class="text-white absolute end-2.5 bottom-2.5 bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-xl text-sm px-4 py-2 dark:bg-blue-800 dark:hover:bg-blue-900 dark:focus:ring-blue-900">Ask</button>
+          </div>
+        </form>
+      </div>
     </div>
-
-
-    <!-- Import JS -->
-    <script src="/web/index.js"></script>
+  </div>
+  <div class="h-[4xh] text-white text-xl -mt-2 ml-2">
+    Listening...
+  </div>
 </body>
-
 </html>

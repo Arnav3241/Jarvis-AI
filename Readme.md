@@ -10,7 +10,7 @@ Say Hi to Jarvis, Your very own personal Ai assistant! Jarvis simplifies coding,
 ## Todo
  
 - [x]  GUI
-- [ ]  Basic functions like Speak and Listen
+- [x]  Basic functions like Speak and Listen
 - [ ]  Whatsapp automation
 - [ ]  Instagram Automation
 - [ ]  Spotify Automation
@@ -28,7 +28,6 @@ Say Hi to Jarvis, Your very own personal Ai assistant! Jarvis simplifies coding,
 - [ ]  Mail Checker
 - [ ]  Check battery percentage
 - [ ]  SMS Sender
-- [ ]  Make Calls using Twillo API
 - [ ]  Make Calls using Twillo API
 - [ ]  Access Smartphone from PC
 - [ ]  Face Recognition
@@ -86,34 +85,4 @@ This project uses the following packages:
 - [@Arnav3241](https://www.github.com/Arnav3241)
 
 
-
-## Dev Logs
-Dev logs document the iterative journey of a project, capturing milestones and challenges. They serve as a crucial roadmap for developers, fostering collaboration and informed decision-making.
-
-### Day 1:  
-Today was a quick day. Started with the frontend and already halfway there. added tabs. Still seems a long way to go 🤔
-
-Here is today's progress:
-![Logo](./Assets/Images/Readme/Logs/Day%201/1.png)
-![Logo](./Assets/Images/Readme/Logs/Day%201/2.png)
-
-### Day 2:  
-Today I literally had no time. So i rushed a little with the ongoing GUI. But we are finally Done with the GUI. 🥳🥳🥳
-
-Here is today's progress:
-![Logo](./Assets/Images/Readme/Logs/Day%202/1.png)
-![Logo](./Assets/Images/Readme/Logs/Day%202/2.png)
-
-### Day 2:  
-Today I literally had no time. So i rushed a little with the ongoing GUI. But we are finally Done with the GUI. 🥳🥳🥳
-
-Here is today's progress:
-![Logo](./Assets/Images/Readme/Logs/Day%202/1.png)
-![Logo](./Assets/Images/Readme/Logs/Day%202/2.png)
-
-### Day 3:
-Built the Speak System but with a different approach. I used pygame instead of the usual pyttsx3 everyone was using. Anyways the code is at Functions/Speak.py
-
-Here is today's progress: Click the image to watch the video
-
-[![Python Jarvis Speak function](./Assets/Images/Readme/Logs/Day%203/1.png)](https://youtu.be/IYG9_y_d-7o "Python Jarvis Speak function")
+## Here is the GUI

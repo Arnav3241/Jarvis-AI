@@ -43,21 +43,247 @@
         "documentation": {}
     },
     {
-        "label": "pygame",
+        "label": "time",
         "kind": 6,
         "isExtraImport": true,
-        "importPath": "pygame",
-        "description": "pygame",
-        "detail": "pygame",
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
         "documentation": {}
     },
     {
-        "label": "eel",
+        "label": "sleep",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "sleep",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "sleep",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "sleep",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "ChromeDriverManager",
+        "importPath": "webdriver_manager.chrome",
+        "description": "webdriver_manager.chrome",
+        "isExtraImport": true,
+        "detail": "webdriver_manager.chrome",
+        "documentation": {}
+    },
+    {
+        "label": "ChromeDriverManager",
+        "importPath": "webdriver_manager.chrome",
+        "description": "webdriver_manager.chrome",
+        "isExtraImport": true,
+        "detail": "webdriver_manager.chrome",
+        "documentation": {}
+    },
+    {
+        "label": "ChromeDriverManager",
+        "importPath": "webdriver_manager.chrome",
+        "description": "webdriver_manager.chrome",
+        "isExtraImport": true,
+        "detail": "webdriver_manager.chrome",
+        "documentation": {}
+    },
+    {
+        "label": "ChromeDriverManager",
+        "importPath": "webdriver_manager.chrome",
+        "description": "webdriver_manager.chrome",
+        "isExtraImport": true,
+        "detail": "webdriver_manager.chrome",
+        "documentation": {}
+    },
+    {
+        "label": "Options",
+        "importPath": "selenium.webdriver.chrome.options",
+        "description": "selenium.webdriver.chrome.options",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.options",
+        "documentation": {}
+    },
+    {
+        "label": "Options",
+        "importPath": "selenium.webdriver.chrome.options",
+        "description": "selenium.webdriver.chrome.options",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.options",
+        "documentation": {}
+    },
+    {
+        "label": "Options",
+        "importPath": "selenium.webdriver.chrome.options",
+        "description": "selenium.webdriver.chrome.options",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.options",
+        "documentation": {}
+    },
+    {
+        "label": "Options",
+        "importPath": "selenium.webdriver.chrome.options",
+        "description": "selenium.webdriver.chrome.options",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.options",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "Service",
+        "importPath": "selenium.webdriver.chrome.service",
+        "description": "selenium.webdriver.chrome.service",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.service",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "playsound",
         "kind": 6,
         "isExtraImport": true,
-        "importPath": "eel",
-        "description": "eel",
-        "detail": "eel",
+        "importPath": "playsound",
+        "description": "playsound",
+        "detail": "playsound",
+        "documentation": {}
+    },
+    {
+        "label": "warnings",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "warnings",
+        "description": "warnings",
+        "detail": "warnings",
+        "documentation": {}
+    },
+    {
+        "label": "pyttsx3",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pyttsx3",
+        "description": "pyttsx3",
+        "detail": "pyttsx3",
+        "documentation": {}
+    },
+    {
+        "label": "Listen",
+        "importPath": "Functions.Listen",
+        "description": "Functions.Listen",
+        "isExtraImport": true,
+        "detail": "Functions.Listen",
+        "documentation": {}
+    },
+    {
+        "label": "Speak",
+        "importPath": "Functions.Speak",
+        "description": "Functions.Speak",
+        "isExtraImport": true,
+        "detail": "Functions.Speak",
         "documentation": {}
     },
     {
@@ -196,12 +422,291 @@
         "documentation": {}
     },
     {
+        "label": "Listen",
+        "kind": 2,
+        "importPath": "Tests.Listen1",
+        "description": "Tests.Listen1",
+        "peekOfCode": "def Listen():\n  text_element_xpath = '/html/body/div[3]/section/div/div/div[2]/div/div[2]'\n  text = driver.find_element(by=By.XPATH, value=text_element_xpath).text\n  if len(text) == 0:\n    return \"\"\n  else:\n    driver.find_element(by=By.XPATH, value=clear_button_xpath).click()\n    text = text.strip()\n    print(f\"User   : {text}\")\n    return text",
+        "detail": "Tests.Listen1",
+        "documentation": {}
+    },
+    {
+        "label": "url",
+        "kind": 5,
+        "importPath": "Tests.Listen1",
+        "description": "Tests.Listen1",
+        "peekOfCode": "url = \"https://dictation.io/speech\"\nwarnings.simplefilter(\"ignore\")\nstart = time.time()\ntry:\n  user_agent = 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.2 (KHTML, like Gecko) Chrome/22.0.1216.0 Safari/537.2'\n  chrome_options = Options()\n  chrome_options.add_argument(f'user-agent={user_agent}')\n  # chrome_options.add_argument(f'--headless=new')\n  chrome_options.add_experimental_option('excludeSwitches', ['enable-logging'])\n  chrome_options.add_argument('--log-level=3')",
+        "detail": "Tests.Listen1",
+        "documentation": {}
+    },
+    {
+        "label": "start",
+        "kind": 5,
+        "importPath": "Tests.Listen1",
+        "description": "Tests.Listen1",
+        "peekOfCode": "start = time.time()\ntry:\n  user_agent = 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.2 (KHTML, like Gecko) Chrome/22.0.1216.0 Safari/537.2'\n  chrome_options = Options()\n  chrome_options.add_argument(f'user-agent={user_agent}')\n  # chrome_options.add_argument(f'--headless=new')\n  chrome_options.add_experimental_option('excludeSwitches', ['enable-logging'])\n  chrome_options.add_argument('--log-level=3')\n  service = Service(ChromeDriverManager().install())\n  chrome_options.add_argument(\"--use-fake-ui-for-media-stream\")",
+        "detail": "Tests.Listen1",
+        "documentation": {}
+    },
+    {
+        "label": "end",
+        "kind": 5,
+        "importPath": "Tests.Listen1",
+        "description": "Tests.Listen1",
+        "peekOfCode": "end = time.time()\nprint(end - start)\ndef Listen():\n  text_element_xpath = '/html/body/div[3]/section/div/div/div[2]/div/div[2]'\n  text = driver.find_element(by=By.XPATH, value=text_element_xpath).text\n  if len(text) == 0:\n    return \"\"\n  else:\n    driver.find_element(by=By.XPATH, value=clear_button_xpath).click()\n    text = text.strip()",
+        "detail": "Tests.Listen1",
+        "documentation": {}
+    },
+    {
+        "label": "Listen",
+        "kind": 2,
+        "importPath": "Tests.Listen2",
+        "description": "Tests.Listen2",
+        "peekOfCode": "def Listen():\n  text_element_xpath = '/html/body/div[4]/div/div[1]/div[2]/textarea'\n  text_element = driver.find_element(by=By.XPATH, value=text_element_xpath)\n  text = text_element.get_attribute('value')\n  if len(text) == 0:\n    pass\n  else:\n    # driver.find_element(by=By.XPATH, value=\"a\").click()\n    text = text.strip()\n    print(f\"User   : {text}\")",
+        "detail": "Tests.Listen2",
+        "documentation": {}
+    },
+    {
+        "label": "url",
+        "kind": 5,
+        "importPath": "Tests.Listen2",
+        "description": "Tests.Listen2",
+        "peekOfCode": "url = \"https://speechnotes.co/dictate/\"\nwarnings.simplefilter(\"ignore\")\ntry:\n  user_agent = 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.2 (KHTML, like Gecko) Chrome/22.0.1216.0 Safari/537.2'\n  chrome_options = Options()\n  chrome_options.add_argument(f'user-agent={user_agent}')\n  chrome_options.add_argument(f'--headless=new')\n  chrome_options.add_experimental_option('excludeSwitches', ['enable-logging'])\n  chrome_options.add_argument('--log-level=3')\n  service = Service(ChromeDriverManager().install())",
+        "detail": "Tests.Listen2",
+        "documentation": {}
+    },
+    {
         "label": "Speak",
         "kind": 2,
-        "importPath": "Functions.Speak",
-        "description": "Functions.Speak",
-        "peekOfCode": "def Speak(data):\n  voice = 'en-CA-LiamNeural'\n  command = f'edge-tts --voice \"{voice}\" --text \"{data}\" --write-media \"Assets//Audio//currently.mp3\"'\n  os.system(command)\n  pygame.init()\n  pygame.mixer.init()\n  pygame.mixer.music.load(\"Assets//Audio//currently.mp3\")\n  try:\n    pygame.mixer.music.play()\n    while pygame.mixer.music.get_busy():",
-        "detail": "Functions.Speak",
+        "importPath": "Tests.Speak1",
+        "description": "Tests.Speak1",
+        "peekOfCode": "def Speak(text):\n  try:\n    TextBox.clear()\n  except:\n    pass\n  TextBox.send_keys(text)\n  driver.find_element(by=By.XPATH, value=\"/html/body/app-root/app-main/app-pw-page/div/div[2]/app-pw-single-page/div[1]/div[1]/div/div[2]/app-pw-reading-bar/div/div/button[3]\").click()\n  sleep(1.5)\n  Assistant.say(text)\n  print(f\"Jarvis : {text}\")",
+        "detail": "Tests.Speak1",
+        "documentation": {}
+    },
+    {
+        "label": "url",
+        "kind": 5,
+        "importPath": "Tests.Speak1",
+        "description": "Tests.Speak1",
+        "peekOfCode": "url = \"https://www.naturalreaders.com/online/\"\nwarnings.simplefilter(\"ignore\")\nAssistant = pyttsx3.init('sapi5')\nvoices = Assistant.getProperty('voices')\nAssistant.setProperty('voice', voices[0])\nAssistant.setProperty('rate', 80)\nAssistant.setProperty('volume', 0)\nuser_agent = 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.2 (KHTML, like Gecko) Chrome/22.0.1216.0 Safari/537.2'\nchrome_options = Options()\nchrome_options.add_argument(\"--start-maximized\")",
+        "detail": "Tests.Speak1",
+        "documentation": {}
+    },
+    {
+        "label": "Assistant",
+        "kind": 5,
+        "importPath": "Tests.Speak1",
+        "description": "Tests.Speak1",
+        "peekOfCode": "Assistant = pyttsx3.init('sapi5')\nvoices = Assistant.getProperty('voices')\nAssistant.setProperty('voice', voices[0])\nAssistant.setProperty('rate', 80)\nAssistant.setProperty('volume', 0)\nuser_agent = 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.2 (KHTML, like Gecko) Chrome/22.0.1216.0 Safari/537.2'\nchrome_options = Options()\nchrome_options.add_argument(\"--start-maximized\")\nchrome_options.add_argument(f'user-agent={user_agent}')\nchrome_options.add_argument(f'--headless=new')",
+        "detail": "Tests.Speak1",
+        "documentation": {}
+    },
+    {
+        "label": "voices",
+        "kind": 5,
+        "importPath": "Tests.Speak1",
+        "description": "Tests.Speak1",
+        "peekOfCode": "voices = Assistant.getProperty('voices')\nAssistant.setProperty('voice', voices[0])\nAssistant.setProperty('rate', 80)\nAssistant.setProperty('volume', 0)\nuser_agent = 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.2 (KHTML, like Gecko) Chrome/22.0.1216.0 Safari/537.2'\nchrome_options = Options()\nchrome_options.add_argument(\"--start-maximized\")\nchrome_options.add_argument(f'user-agent={user_agent}')\nchrome_options.add_argument(f'--headless=new')\nchrome_options.add_experimental_option('excludeSwitches', ['enable-logging'])",
+        "detail": "Tests.Speak1",
+        "documentation": {}
+    },
+    {
+        "label": "user_agent",
+        "kind": 5,
+        "importPath": "Tests.Speak1",
+        "description": "Tests.Speak1",
+        "peekOfCode": "user_agent = 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.2 (KHTML, like Gecko) Chrome/22.0.1216.0 Safari/537.2'\nchrome_options = Options()\nchrome_options.add_argument(\"--start-maximized\")\nchrome_options.add_argument(f'user-agent={user_agent}')\nchrome_options.add_argument(f'--headless=new')\nchrome_options.add_experimental_option('excludeSwitches', ['enable-logging'])\nchrome_options.add_argument('--log-level=3')\nservice = Service(ChromeDriverManager().install())\nchrome_options.add_argument(\"--use-fake-ui-for-media-stream\")\nchrome_options.add_argument(\"--use-fake-device-for-media-stream\")",
+        "detail": "Tests.Speak1",
+        "documentation": {}
+    },
+    {
+        "label": "chrome_options",
+        "kind": 5,
+        "importPath": "Tests.Speak1",
+        "description": "Tests.Speak1",
+        "peekOfCode": "chrome_options = Options()\nchrome_options.add_argument(\"--start-maximized\")\nchrome_options.add_argument(f'user-agent={user_agent}')\nchrome_options.add_argument(f'--headless=new')\nchrome_options.add_experimental_option('excludeSwitches', ['enable-logging'])\nchrome_options.add_argument('--log-level=3')\nservice = Service(ChromeDriverManager().install())\nchrome_options.add_argument(\"--use-fake-ui-for-media-stream\")\nchrome_options.add_argument(\"--use-fake-device-for-media-stream\")\ndriver = webdriver.Chrome(service=service, options=chrome_options)",
+        "detail": "Tests.Speak1",
+        "documentation": {}
+    },
+    {
+        "label": "service",
+        "kind": 5,
+        "importPath": "Tests.Speak1",
+        "description": "Tests.Speak1",
+        "peekOfCode": "service = Service(ChromeDriverManager().install())\nchrome_options.add_argument(\"--use-fake-ui-for-media-stream\")\nchrome_options.add_argument(\"--use-fake-device-for-media-stream\")\ndriver = webdriver.Chrome(service=service, options=chrome_options)\ndriver.get(url)\ndriver.find_element(by=By.XPATH, value=\"/html/body/app-root/app-voice-selection/div/div[1]/div[2]/div/button[3]\").click()\ndriver.find_element(by=By.XPATH, value=\"/html/body/app-root/app-voice-selection/div/div[1]/div[3]/button\").click()\ndriver.find_element(by=By.XPATH, value=\"/html/body/app-root/app-voice-selection/div/div[2]/div[2]/div[1]/a\").click()\nsleep(3)\nTextBoxPath = \"/html/body/app-root/app-main/app-pw-page/div/div[2]/app-pw-single-page/div[1]/div[2]/app-pw-text-reading/div/div/div[2]/div\"",
+        "detail": "Tests.Speak1",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "Tests.Speak1",
+        "description": "Tests.Speak1",
+        "peekOfCode": "driver = webdriver.Chrome(service=service, options=chrome_options)\ndriver.get(url)\ndriver.find_element(by=By.XPATH, value=\"/html/body/app-root/app-voice-selection/div/div[1]/div[2]/div/button[3]\").click()\ndriver.find_element(by=By.XPATH, value=\"/html/body/app-root/app-voice-selection/div/div[1]/div[3]/button\").click()\ndriver.find_element(by=By.XPATH, value=\"/html/body/app-root/app-voice-selection/div/div[2]/div[2]/div[1]/a\").click()\nsleep(3)\nTextBoxPath = \"/html/body/app-root/app-main/app-pw-page/div/div[2]/app-pw-single-page/div[1]/div[2]/app-pw-text-reading/div/div/div[2]/div\"\nTextBox = driver.find_element(by=By.XPATH, value=TextBoxPath)\nTextBox.clear()\ndef Speak(text):",
+        "detail": "Tests.Speak1",
+        "documentation": {}
+    },
+    {
+        "label": "TextBoxPath",
+        "kind": 5,
+        "importPath": "Tests.Speak1",
+        "description": "Tests.Speak1",
+        "peekOfCode": "TextBoxPath = \"/html/body/app-root/app-main/app-pw-page/div/div[2]/app-pw-single-page/div[1]/div[2]/app-pw-text-reading/div/div/div[2]/div\"\nTextBox = driver.find_element(by=By.XPATH, value=TextBoxPath)\nTextBox.clear()\ndef Speak(text):\n  try:\n    TextBox.clear()\n  except:\n    pass\n  TextBox.send_keys(text)\n  driver.find_element(by=By.XPATH, value=\"/html/body/app-root/app-main/app-pw-page/div/div[2]/app-pw-single-page/div[1]/div[1]/div/div[2]/app-pw-reading-bar/div/div/button[3]\").click()",
+        "detail": "Tests.Speak1",
+        "documentation": {}
+    },
+    {
+        "label": "TextBox",
+        "kind": 5,
+        "importPath": "Tests.Speak1",
+        "description": "Tests.Speak1",
+        "peekOfCode": "TextBox = driver.find_element(by=By.XPATH, value=TextBoxPath)\nTextBox.clear()\ndef Speak(text):\n  try:\n    TextBox.clear()\n  except:\n    pass\n  TextBox.send_keys(text)\n  driver.find_element(by=By.XPATH, value=\"/html/body/app-root/app-main/app-pw-page/div/div[2]/app-pw-single-page/div[1]/div[1]/div/div[2]/app-pw-reading-bar/div/div/button[3]\").click()\n  sleep(1.5)",
+        "detail": "Tests.Speak1",
+        "documentation": {}
+    },
+    {
+        "label": "SpeakPyttsx3",
+        "kind": 2,
+        "importPath": "Tests.Speak2",
+        "description": "Tests.Speak2",
+        "peekOfCode": "def SpeakPyttsx3(audio):\n  if audio == \"\":\n    return\n  Assistant.say(audio)\n  print(f\"Jarvis : {audio}\")\n  Assistant.runAndWait()\nif __name__ == \"__main__\":\n  SpeakPyttsx3(\"Hello, I am Jarvis.\")",
+        "detail": "Tests.Speak2",
+        "documentation": {}
+    },
+    {
+        "label": "Assistant",
+        "kind": 5,
+        "importPath": "Tests.Speak2",
+        "description": "Tests.Speak2",
+        "peekOfCode": "Assistant = pyttsx3.init('sapi5')\nvoices = Assistant.getProperty('voices')\nAssistant.setProperty('voices', voices[0])\nAssistant.setProperty('rate', 180)\ndef SpeakPyttsx3(audio):\n  if audio == \"\":\n    return\n  Assistant.say(audio)\n  print(f\"Jarvis : {audio}\")\n  Assistant.runAndWait()",
+        "detail": "Tests.Speak2",
+        "documentation": {}
+    },
+    {
+        "label": "voices",
+        "kind": 5,
+        "importPath": "Tests.Speak2",
+        "description": "Tests.Speak2",
+        "peekOfCode": "voices = Assistant.getProperty('voices')\nAssistant.setProperty('voices', voices[0])\nAssistant.setProperty('rate', 180)\ndef SpeakPyttsx3(audio):\n  if audio == \"\":\n    return\n  Assistant.say(audio)\n  print(f\"Jarvis : {audio}\")\n  Assistant.runAndWait()\nif __name__ == \"__main__\":",
+        "detail": "Tests.Speak2",
+        "documentation": {}
+    },
+    {
+        "label": "Execution",
+        "kind": 2,
+        "importPath": "Jarvis",
+        "description": "Jarvis",
+        "peekOfCode": "def Execution():\n  while True:\n    query = Listen()\n    Speak(query)\nif __name__ == \"__main__\":\n  Execution()",
+        "detail": "Jarvis",
+        "documentation": {}
+    },
+    {
+        "label": "ConvL",
+        "kind": 5,
+        "importPath": "Jarvis",
+        "description": "Jarvis",
+        "peekOfCode": "ConvL = [\n  \"\",\n  \"\"\n]\nfrom Functions.Listen import Listen\nfrom Functions.Speak import Speak\nConvT = 100\ndef Execution():\n  while True:\n    query = Listen()",
+        "detail": "Jarvis",
+        "documentation": {}
+    },
+    {
+        "label": "ConvT",
+        "kind": 5,
+        "importPath": "Jarvis",
+        "description": "Jarvis",
+        "peekOfCode": "ConvT = 100\ndef Execution():\n  while True:\n    query = Listen()\n    Speak(query)\nif __name__ == \"__main__\":\n  Execution()",
+        "detail": "Jarvis",
+        "documentation": {}
+    },
+    {
+        "label": "Speak",
+        "kind": 2,
+        "importPath": "Speak",
+        "description": "Speak",
+        "peekOfCode": "def Speak(text):\n  try:\n    TextBox.clear()\n  except:\n    pass\n  TextBox.send_keys(text)\n  driver.find_element(by=By.XPATH, value=\"/html/body/app-root/app-main/app-pw-page/div/div[2]/app-pw-single-page/div[1]/div[1]/div/div[2]/app-pw-reading-bar/div/div/button[3]\").click()\n  sleep(1.5)\n  Assistant.say(text)\n  print(f\"Jarvis : {text}\")",
+        "detail": "Speak",
+        "documentation": {}
+    },
+    {
+        "label": "url",
+        "kind": 5,
+        "importPath": "Speak",
+        "description": "Speak",
+        "peekOfCode": "url = \"https://www.naturalreaders.com/online/\"\nwarnings.simplefilter(\"ignore\")\nAssistant = pyttsx3.init('sapi5')\nvoices = Assistant.getProperty('voices')\nAssistant.setProperty('voice', voices[0])\nAssistant.setProperty('rate', 80)\nAssistant.setProperty('volume', 0)\nuser_agent = 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.2 (KHTML, like Gecko) Chrome/22.0.1216.0 Safari/537.2'\nchrome_options = Options()\nchrome_options.add_argument(\"--start-maximized\")",
+        "detail": "Speak",
+        "documentation": {}
+    },
+    {
+        "label": "Assistant",
+        "kind": 5,
+        "importPath": "Speak",
+        "description": "Speak",
+        "peekOfCode": "Assistant = pyttsx3.init('sapi5')\nvoices = Assistant.getProperty('voices')\nAssistant.setProperty('voice', voices[0])\nAssistant.setProperty('rate', 80)\nAssistant.setProperty('volume', 0)\nuser_agent = 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.2 (KHTML, like Gecko) Chrome/22.0.1216.0 Safari/537.2'\nchrome_options = Options()\nchrome_options.add_argument(\"--start-maximized\")\nchrome_options.add_argument(f'user-agent={user_agent}')\nchrome_options.add_argument(f'--headless=new')",
+        "detail": "Speak",
+        "documentation": {}
+    },
+    {
+        "label": "voices",
+        "kind": 5,
+        "importPath": "Speak",
+        "description": "Speak",
+        "peekOfCode": "voices = Assistant.getProperty('voices')\nAssistant.setProperty('voice', voices[0])\nAssistant.setProperty('rate', 80)\nAssistant.setProperty('volume', 0)\nuser_agent = 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.2 (KHTML, like Gecko) Chrome/22.0.1216.0 Safari/537.2'\nchrome_options = Options()\nchrome_options.add_argument(\"--start-maximized\")\nchrome_options.add_argument(f'user-agent={user_agent}')\nchrome_options.add_argument(f'--headless=new')\nchrome_options.add_experimental_option('excludeSwitches', ['enable-logging'])",
+        "detail": "Speak",
+        "documentation": {}
+    },
+    {
+        "label": "user_agent",
+        "kind": 5,
+        "importPath": "Speak",
+        "description": "Speak",
+        "peekOfCode": "user_agent = 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.2 (KHTML, like Gecko) Chrome/22.0.1216.0 Safari/537.2'\nchrome_options = Options()\nchrome_options.add_argument(\"--start-maximized\")\nchrome_options.add_argument(f'user-agent={user_agent}')\nchrome_options.add_argument(f'--headless=new')\nchrome_options.add_experimental_option('excludeSwitches', ['enable-logging'])\nchrome_options.add_argument('--log-level=3')\nservice = Service(ChromeDriverManager().install())\nchrome_options.add_argument(\"--use-fake-ui-for-media-stream\")\nchrome_options.add_argument(\"--use-fake-device-for-media-stream\")",
+        "detail": "Speak",
+        "documentation": {}
+    },
+    {
+        "label": "chrome_options",
+        "kind": 5,
+        "importPath": "Speak",
+        "description": "Speak",
+        "peekOfCode": "chrome_options = Options()\nchrome_options.add_argument(\"--start-maximized\")\nchrome_options.add_argument(f'user-agent={user_agent}')\nchrome_options.add_argument(f'--headless=new')\nchrome_options.add_experimental_option('excludeSwitches', ['enable-logging'])\nchrome_options.add_argument('--log-level=3')\nservice = Service(ChromeDriverManager().install())\nchrome_options.add_argument(\"--use-fake-ui-for-media-stream\")\nchrome_options.add_argument(\"--use-fake-device-for-media-stream\")\ndriver = webdriver.Chrome(service=service, options=chrome_options)",
+        "detail": "Speak",
+        "documentation": {}
+    },
+    {
+        "label": "service",
+        "kind": 5,
+        "importPath": "Speak",
+        "description": "Speak",
+        "peekOfCode": "service = Service(ChromeDriverManager().install())\nchrome_options.add_argument(\"--use-fake-ui-for-media-stream\")\nchrome_options.add_argument(\"--use-fake-device-for-media-stream\")\ndriver = webdriver.Chrome(service=service, options=chrome_options)\ndriver.get(url)\ndriver.find_element(by=By.XPATH, value=\"/html/body/app-root/app-voice-selection/div/div[1]/div[2]/div/button[3]\").click()\ndriver.find_element(by=By.XPATH, value=\"/html/body/app-root/app-voice-selection/div/div[1]/div[3]/button\").click()\ndriver.find_element(by=By.XPATH, value=\"/html/body/app-root/app-voice-selection/div/div[2]/div[2]/div[1]/a\").click()\nsleep(3)\nTextBoxPath = \"/html/body/app-root/app-main/app-pw-page/div/div[2]/app-pw-single-page/div[1]/div[2]/app-pw-text-reading/div/div/div[2]/div\"",
+        "detail": "Speak",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "Speak",
+        "description": "Speak",
+        "peekOfCode": "driver = webdriver.Chrome(service=service, options=chrome_options)\ndriver.get(url)\ndriver.find_element(by=By.XPATH, value=\"/html/body/app-root/app-voice-selection/div/div[1]/div[2]/div/button[3]\").click()\ndriver.find_element(by=By.XPATH, value=\"/html/body/app-root/app-voice-selection/div/div[1]/div[3]/button\").click()\ndriver.find_element(by=By.XPATH, value=\"/html/body/app-root/app-voice-selection/div/div[2]/div[2]/div[1]/a\").click()\nsleep(3)\nTextBoxPath = \"/html/body/app-root/app-main/app-pw-page/div/div[2]/app-pw-single-page/div[1]/div[2]/app-pw-text-reading/div/div/div[2]/div\"\nTextBox = driver.find_element(by=By.XPATH, value=TextBoxPath)\nTextBox.clear()\ndef Speak(text):",
+        "detail": "Speak",
+        "documentation": {}
+    },
+    {
+        "label": "TextBoxPath",
+        "kind": 5,
+        "importPath": "Speak",
+        "description": "Speak",
+        "peekOfCode": "TextBoxPath = \"/html/body/app-root/app-main/app-pw-page/div/div[2]/app-pw-single-page/div[1]/div[2]/app-pw-text-reading/div/div/div[2]/div\"\nTextBox = driver.find_element(by=By.XPATH, value=TextBoxPath)\nTextBox.clear()\ndef Speak(text):\n  try:\n    TextBox.clear()\n  except:\n    pass\n  TextBox.send_keys(text)\n  driver.find_element(by=By.XPATH, value=\"/html/body/app-root/app-main/app-pw-page/div/div[2]/app-pw-single-page/div[1]/div[1]/div/div[2]/app-pw-reading-bar/div/div/button[3]\").click()",
+        "detail": "Speak",
+        "documentation": {}
+    },
+    {
+        "label": "TextBox",
+        "kind": 5,
+        "importPath": "Speak",
+        "description": "Speak",
+        "peekOfCode": "TextBox = driver.find_element(by=By.XPATH, value=TextBoxPath)\nTextBox.clear()\ndef Speak(text):\n  try:\n    TextBox.clear()\n  except:\n    pass\n  TextBox.send_keys(text)\n  driver.find_element(by=By.XPATH, value=\"/html/body/app-root/app-main/app-pw-page/div/div[2]/app-pw-single-page/div[1]/div[1]/div/div[2]/app-pw-reading-bar/div/div/button[3]\").click()\n  sleep(1.5)",
+        "detail": "Speak",
         "documentation": {}
     }
 ]
